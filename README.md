@@ -14,7 +14,7 @@ This app uses a Caesar cipher decryption algorithm combined with basic AI-style 
 
 ## 🚀 Try the App
 
-🔗 **[Click to open the app on Streamlit](https://your-username-your-repo-name.streamlit.app)**
+🔗 **[Click to open the app on Streamlit](https://caesar-cipher-cracker.streamlit.app/)**
 
 ---
 
@@ -31,8 +31,8 @@ This app uses a Caesar cipher decryption algorithm combined with basic AI-style 
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ravi18kumar2021/caesar-cipher-cracker.git
+   cd caesar-cipher-cracker
 
 2. Install required Python packages
    ```bash
@@ -49,6 +49,7 @@ This app uses a Caesar cipher decryption algorithm combined with basic AI-style 
 This app uses:
 * streamlit
 * nltk
+
 All dependencies are listed in the `requirements.txt` file.
 
 ---
