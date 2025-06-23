@@ -33,3 +33,34 @@ This app uses a Caesar cipher decryption algorithm combined with basic AI-style 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+2. Install required Python packages
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app
+   ```bash
+   streamlit run app.py
+
+---
+
+## 📦 Requirements
+
+This app uses:
+* streamlit
+* nltk
+All dependencies are listed in the `requirements.txt` file.
+
+---
+
+## ✨ Built With
+
+* [Python](https://www.python.org/)
+* [Streamlit](https://streamlit.io/)
+* [NLTK](https://www.nltk.org/) for word scoring.
+
+---
+
+## 🧠 Inspired by
+
+Alan Turing’s pioneering work in cryptography and computing. 🗓️ **Created to honor his birthday (June 23)**.
